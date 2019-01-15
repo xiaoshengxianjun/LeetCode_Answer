@@ -5,3 +5,12 @@ leetcode题库答案合集
 ### 已更新答案目录
 1. [两数之和(Two Sum)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/TwoSum.js)  
 2. [两数相加(Add Two Numbers)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/AddTwoNumbers.js)  
+3. [无重复字符的最长子串(Longest Substring Without Repeating Characters)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LongestSubstringWithoutRepeatingCharacters.js)  
+4. [寻找两个有序数组的中位数(Median of Two Sorted Arrays)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/MedianOfTwoSortedArrays.js)  
+5. [最长回文串(Longest Palindromic Substring)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LongestPalindromicSubstring.js)  
+6. [z字形变换(ZigZag Conversion)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ZigZagConversion.js)  
+7. [整数反转(Reverse Integer)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ReverseInteger.js)  
+8. [字符串转整数(String to Integer(atoi))](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/StringToIntegerAtoi.js)  
+9. [回文数(Palindrome Number)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/PalindromeNumber.js)  
+10. [正则表达式匹配(Regular Express Matching)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RegularExpressMatching.js)  
+11. [盛最多水的容器(Container With Water)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ContainerWithWater.js)  
