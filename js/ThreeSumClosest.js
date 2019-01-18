@@ -3,6 +3,7 @@
  * @param {number} target
  * @return {number}
  */
+// 执行用时：108ms
 var threeSumClosest = function(nums, target) {
    nums = nums.sort((a, b) => a - b);
   let res = nums[0] + nums[1] + nums[2], diff = Math.abs(res - target);
