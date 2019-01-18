@@ -19,3 +19,4 @@ leetcode题库答案合集
 14. [最长公共前缀(Longest Common Prefix)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LongestCommonPrefix.js)  
 15. [三数之和(3sum)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ThreeSum.js)  
 16. [最接近的三数之和(3sum Closest)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ThreeSumClosest.js)  
+17. [电话号码的字母组合(Letter Combinations of a Phone Number)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LetterCombinationsOfAPhoneNumber.js)  
