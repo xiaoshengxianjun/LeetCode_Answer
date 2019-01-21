@@ -22,3 +22,4 @@ leetcode题库答案合集
 17. [电话号码的字母组合(Letter Combinations of a Phone Number)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LetterCombinationsOfAPhoneNumber.js)  
 18. [四数之和(4sum)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/FourSum.js)  
 19. [删除链表的倒数第N个元素(Remove Nth Node From End of List)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveNthNodeFromEndOfList.js)  
+20. [有效的括号(Valid Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ValidParentheses.js)  
