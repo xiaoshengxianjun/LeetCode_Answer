@@ -24,3 +24,4 @@ leetcode题库答案合集
 19. [删除链表的倒数第N个元素(Remove Nth Node From End of List)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveNthNodeFromEndOfList.js)  
 20. [有效的括号(Valid Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ValidParentheses.js)  
 21. [合并两个有序链表(Merge Two Sorted Lists)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/MergeTwoSortedLists.js)  
+22. [括号生成(Generate Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/GenerateParentheses.js)  
