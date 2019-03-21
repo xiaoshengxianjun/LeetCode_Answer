@@ -26,3 +26,4 @@ leetcode题库答案合集
 21. [合并两个有序链表(Merge Two Sorted Lists)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/MergeTwoSortedLists.js)  
 22. [括号生成(Generate Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/GenerateParentheses.js)  
 23. [合并K个排序链表(Merge k Sorted Lists)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/MergekSortedLists.js)  
+24. [两两交换链表中的节点(Swap Nodes in Pairs)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SwapNodesinPairs.js)  
