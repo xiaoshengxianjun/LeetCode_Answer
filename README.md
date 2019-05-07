@@ -27,3 +27,4 @@ leetcode题库答案合集
 22. [括号生成(Generate Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/GenerateParentheses.js)  
 23. [合并K个排序链表(Merge k Sorted Lists)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/MergekSortedLists.js)  
 24. [两两交换链表中的节点(Swap Nodes in Pairs)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SwapNodesinPairs.js)  
+25. [k个一组翻转链表(Reverse Nodes in k-Group)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ReverseNodesInKGroup.js)  
