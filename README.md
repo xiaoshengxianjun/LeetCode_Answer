@@ -29,3 +29,4 @@ leetcode题库答案合集
 24. [两两交换链表中的节点(Swap Nodes in Pairs)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SwapNodesinPairs.js)  
 25. [k个一组翻转链表(Reverse Nodes in k-Group)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ReverseNodesInKGroup.js)  
 26. [删除排序数组中的重复项(Remove Duplicates from Sorted Array)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveDuplicatesFromSortedArray.js)  
+27. [移除元素(Remove Element)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveElement.js)  
