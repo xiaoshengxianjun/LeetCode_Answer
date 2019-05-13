@@ -32,3 +32,4 @@ leetcode题库答案合集
 27. [移除元素(Remove Element)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveElement.js)  
 28. [实现(strStr())](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ImplementStrStr.js)  
 29. [两数相除(Divide Two Integers)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/DivideTwoIntegers.js)  
+30. [串联所有单词的子串(Substring with Concatenation of All Words)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SubstringWithConcatenationOfAllWords.js)  
