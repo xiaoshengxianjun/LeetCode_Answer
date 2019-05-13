@@ -30,4 +30,5 @@ leetcode题库答案合集
 25. [k个一组翻转链表(Reverse Nodes in k-Group)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ReverseNodesInKGroup.js)  
 26. [删除排序数组中的重复项(Remove Duplicates from Sorted Array)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveDuplicatesFromSortedArray.js)  
 27. [移除元素(Remove Element)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/RemoveElement.js)  
-28. [实现strStr()()](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ImplementStrStr.js)  
+28. [实现(strStr())](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/ImplementStrStr.js)  
+29. [两数相除(Divide Two Integers)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/DivideTwoIntegers.js)  
