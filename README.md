@@ -34,3 +34,4 @@ leetcode题库答案合集
 29. [两数相除(Divide Two Integers)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/DivideTwoIntegers.js)  
 30. [串联所有单词的子串(Substring with Concatenation of All Words)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SubstringWithConcatenationOfAllWords.js)  
 31. [下一个排列(Next Permutation)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/NextPermutation.js)  
+32. [最长有效括号(Longest Valid Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LongestValidParentheses.js)  
