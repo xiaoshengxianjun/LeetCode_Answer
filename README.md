@@ -35,3 +35,4 @@ leetcode题库答案合集
 30. [串联所有单词的子串(Substring with Concatenation of All Words)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SubstringWithConcatenationOfAllWords.js)  
 31. [下一个排列(Next Permutation)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/NextPermutation.js)  
 32. [最长有效括号(Longest Valid Parentheses)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/LongestValidParentheses.js)  
+33. [搜索旋转排序数组(Search in Rotated Sorted Array)](https://github.com/xiaoshengxianjun/LeetCode_Answer/blob/master/js/SearchInRotatedSortedArray.js)  
